@@ -1,0 +1,107 @@
+h1 {
+    color:aqua;
+}
+h2 {
+    color: rgb(211, 211, 18);
+}
+h3 {
+    color: rgb(209, 119, 9);
+}
+#headerone {
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+#headertwo {
+    color: yellow;
+    font-size: large;
+    text-decoration: overline;
+}
+#headerthree {
+    color: aquamarine;
+}
+#headerfour {
+    color: limegreen;
+    text-decoration: line-through;
+}
+#headerfive {
+    text-decoration: double;
+}
+#headersix {
+    font-family:fantasy;
+}
+.header1 {
+    color: bisque;
+}
+.header2 {
+    font-size: 15px;
+    background-color: aqua;
+}
+.header3{
+    color: limegreen;
+    text-decoration: line-through;  
+}
+.header4 {
+    font-size: 40px;
+    color:brown;
+    background-color: black;
+}
+.header5 {
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+.header6 {
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:dodgerblue;
+    
+}
+.header7 {
+    font-style: bold;
+    color:lightgreen;
+    background-color:olive;
+    
+}
+.header8 {
+    font-size: 15px;
+    text-decoration: line-through;
+    
+}
+.header9 {
+    color: yellow;
+    font-size: large;
+    text-decoration: overline;
+
+}
+.header10 {
+    font-style: bold;
+    color:lightgreen;
+    background-color:olive;
+    
+}
+.header11 {
+    font-size: 35px;
+    text-decoration: line-through;
+    
+}
+.header12 {
+    font-size: 50px;
+    color:brown;
+    background-color:palegoldenrod;
+    
+}
+#attribute { 
+    color: aquamarine;
+
+}
+#selector {
+    font-size: 35px;
+   color: black;
+   text-decoration: line-through;
+}
+.group { 
+    font-size: 50px;
+    color:brown;
+    background-color:palegoldenrod;
+}
